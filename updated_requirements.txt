@@ -82,17 +82,17 @@ tokenizers
 # torch==1.11.0
 # torchaudio==0.11.0
 # torchvision==0.12.0
-# torch==2.2.0
-# torchaudio==2.2.0
-# torchvision==0.17.0
-tornado
-tqdm
-transformers==4.11.3
-Twisted
-typing_extensions
-urllib3
-w3lib
-xlrd==1.2.0
-XlsxWriter==3.0.3
-zipp
-zope.interface
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==0.17.0
+# tornado
+# tqdm
+# transformers==4.11.3
+# Twisted
+# typing_extensions
+# urllib3
+# w3lib
+# xlrd==1.2.0
+# XlsxWriter==3.0.3
+# zipp
+# zope.interface
