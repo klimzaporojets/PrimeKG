@@ -17,7 +17,8 @@ cycler
 docopt==0.6.2
 filelock
 fonttools==4.25.0
-goatools==1.2.3
+# goatools==1.2.3
+goatools==1.2.4
 huggingface-hub==0.5.1
 hyperlink
 idna
