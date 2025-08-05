@@ -73,7 +73,8 @@ seaborn
 service-identity
 six
 soupsieve
-statsmodels==0.13.2
+# statsmodels==0.13.2
+statsmodels>=0.14.0
 texttable==1.6.4
 threadpoolctl
 tldextract
