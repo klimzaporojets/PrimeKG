@@ -88,7 +88,7 @@ tldextract
 # torchvision==0.17.0
 tornado
 tqdm
-transformers==4.11.3
+# transformers==4.11.3
 Twisted
 typing_extensions
 urllib3
